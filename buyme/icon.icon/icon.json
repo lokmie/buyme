@@ -1,0 +1,119 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "srgb:0.92143,0.92145,0.92144,1.00000",
+      "srgb:1.00000,1.00000,1.00000,1.00000"
+    ],
+    "orientation" : {
+      "start" : {
+        "x" : 0.5,
+        "y" : 0
+      },
+      "stop" : {
+        "x" : 0.5,
+        "y" : 0.7
+      }
+    }
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill" : {
+            "linear-gradient" : [
+              "srgb:0.00000,0.56032,0.00000,1.00000",
+              "srgb:0.55634,0.97935,0.00000,1.00000"
+            ],
+            "orientation" : {
+              "start" : {
+                "x" : 0.5578776041666667,
+                "y" : -1.07171875
+              },
+              "stop" : {
+                "x" : 0.5,
+                "y" : 2.730546875
+              }
+            }
+          },
+          "image-name" : "Poly Lines.svg",
+          "name" : "Poly Lines",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              -177.4921875
+            ]
+          }
+        },
+        {
+          "fill" : {
+            "linear-gradient" : [
+              "srgb:1.00000,0.14913,0.00000,1.00000",
+              "srgb:1.00000,0.49327,0.47400,1.00000"
+            ],
+            "orientation" : {
+              "start" : {
+                "x" : 0.5578776041666667,
+                "y" : -1.07171875
+              },
+              "stop" : {
+                "x" : 0.5,
+                "y" : 2.730546875
+              }
+            }
+          },
+          "image-name" : "Poly Lines.svg",
+          "name" : "Poly Lines",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "fill" : {
+            "linear-gradient" : [
+              "srgb:1.00000,0.57811,0.00000,1.00000",
+              "display-p3:0.89505,0.68649,0.28055,1.00000"
+            ],
+            "orientation" : {
+              "start" : {
+                "x" : 0.6208203125,
+                "y" : -0.67140625
+              },
+              "stop" : {
+                "x" : 0.699921875,
+                "y" : 2.400625
+              }
+            }
+          },
+          "image-name" : "Poly Lines.svg",
+          "name" : "Poly Lines",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              174.359375
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
